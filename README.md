@@ -2,6 +2,8 @@
 Author: Akshay Anand
 7/19/22
 
+Here is a link to the replit where you can run the program without installing any dependencies: https://replit.com/@AkshayAnand4/HarrisGraphCheckerGUI#.replit
+
 A Harris Graph is a graph that satisfies these 3 conditions:
 Eulerian Condition: The graph must contain a Eulerian cycle
 non-Hamiltonian Condition: The graph must not contain any Hamiltonian cycles
